@@ -1,6 +1,6 @@
 {
   "name": "cp-react-tree-table",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "A fast, efficient tree table component for ReactJS.",
   "main": "src/index.ts",
   "scripts": {
